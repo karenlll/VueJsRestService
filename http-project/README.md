@@ -1,3 +1,16 @@
+# See
+https://www.thepolyglotdeveloper.com/2017/10/consume-api-data-http-vuejs-web-application/
+
+# Used commands
+
+>vue init webpack http-project
+
+>cd http-project
+
+>npm install
+
+>npm install axios --save
+
 # rest_service
 
 > A Vue.js project
